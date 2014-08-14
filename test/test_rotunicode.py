@@ -2,8 +2,7 @@
 
 from __future__ import unicode_literals
 import codecs
-from unittest import TestCase
-
+from test.test_utils import TestCase
 from box.util.rotunicode import RotUnicode
 
 
